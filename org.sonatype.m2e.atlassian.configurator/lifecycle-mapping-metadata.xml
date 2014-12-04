@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lifecycleMappingMetadata>
+	<lifecycleMappings>
+		<lifecycleMapping>
+			<packagingType>atlassian-plugin</packagingType>
+			<lifecycleMappingId>org.sonatype.m2e.atlassian.configurator.internal.AtlassianConfigurator
+			</lifecycleMappingId>
+		</lifecycleMapping>
+	</lifecycleMappings>
+</lifecycleMappingMetadata>
+
